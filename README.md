@@ -14,6 +14,12 @@ la cual permite agregar referencias a otros documentos en una factura, como por 
 ### Funcionalidades 
   - [x] Agrega una página nueva en la vista formulario de facturas cliente para mostrar una lista de documentos relacionados
   - [x] Permite agregar nuevos documentos relacionados manualmente
+  
+![Screenshot1](static/img/screenshot_inv_related_documents.png)
+
+![Screenshot2](static/img/screenshot_inv_related_documents02.png)
+
+
 
 
 Desarrollado por
